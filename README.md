@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngo-ngo
 - 👀 I’m interested in creating modern and very easy to use web applications
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on projects that will improve my knowledge on web technologies 
+- 💞️ I’m looking to collaborate on projects that will improve my web dev skills  
 - 📫 How to reach me at ogbov2008@yahoo.com
 
 <!---
